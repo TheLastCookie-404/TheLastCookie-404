@@ -1,5 +1,5 @@
-## Hi there 👋
-### I`m TheLastCookie
+## Howdy, my friend 👋
+### I`m TheLastCookie. Let's write some funny code!!!
 <!--
 **TheLastCookie-404/TheLastCookie-404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
