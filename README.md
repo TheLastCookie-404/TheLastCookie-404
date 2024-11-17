@@ -1,6 +1,6 @@
 ## Howdy, my friend 👋
 ### I`m TheLastCookie. Let's write some funny code!!!
-<div>![matrix-wide](https://github.com/user-attachments/assets/c2ff78bd-55f8-4266-9f6f-bdcd56601c98)</div>
+![matrix-wide](https://github.com/user-attachments/assets/c2ff78bd-55f8-4266-9f6f-bdcd56601c98)
 
 
 <!--
