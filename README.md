@@ -1,6 +1,7 @@
 ## Howdy, my friend 👋
 ### I`m TheLastCookie. Let's write some funny code!!!
-![matrix-wide](https://github.com/user-attachments/assets/c2ff78bd-55f8-4266-9f6f-bdcd56601c98)
+
+![matrix-falling-code](https://github.com/user-attachments/assets/6f142354-54bf-445b-98af-bccab2cb0883)
 
 
 <!--
