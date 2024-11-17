@@ -1,5 +1,7 @@
 ## Howdy, my friend 👋
 ### I`m TheLastCookie. Let's write some funny code!!!
+![the-matrix-digital-rain](https://github.com/user-attachments/assets/4fdd13c4-d0fa-4771-8fb6-9d74cd475fb7)
+
 <!--
 **TheLastCookie-404/TheLastCookie-404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
