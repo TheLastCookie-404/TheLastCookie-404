@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     I don't like JavaScript and Python
   </p>
 </div>
-<span align="right">
+<div align="right">
   <h3>I use these guys</h3>
   <div>
     <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">&nbsp;
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">&nbsp;
     <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white">&nbsp;
   </div>
-</span>
+</div>
 
 
 
