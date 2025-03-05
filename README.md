@@ -18,28 +18,31 @@ Here are some ideas to get you started:
 -->
 
 <h2>A little bit About Me</h2>
-<div>
-<p>
-  <h3>I make:</strong> </h3>
-  🌍 - Web projects, <br>
-  👾 - Games on unity, <br>
-  ⚡ - Scripts for microcontrollers. <br>
-</p>
+<div align="left">
+  <p>
+    <h3>I make:</strong> </h3>
+    🌍 - Web projects, <br>
+    👾 - Games on unity, <br>
+    ⚡ - Scripts for microcontrollers. <br>
+  </p>
   <p>
     <strong>CAUTION, SUBJECTIVE THING!</strong> <br>
-    I don't like JavaScript and really don`t like Python
+    I don't like JavaScript and Python
   </p>
+</div>
+<div align="right">
+  <h3>I use these guys</h3>
+<div>
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff">&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">&nbsp;
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white">&nbsp;</div>
 </div>
 
 
-<h2>I use these guys</h2>
-<div>
-<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff">&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">&nbsp;
-<img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white">&nbsp;</div>
+
 <h2>Some stats</h2>
 <div https://github-readme-stats.vercel.app/api/top-langs/?username=TheLastCookie-404&layout=compact&theme=dark>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLastCookie-404&layout=compact&theme=dark" alt="Top Languages Card"></div>
