@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://readme-stats-fork-mauve.vercel.app/api/?username=TheLastCookie-404&amp;theme=dark&amp;show_icons=true&amp;count_private=true" class="EditorPreview_align-center__Q9vjk undefined"> -->
 
 <table>
-  <tr border="none">
+  <tr>
     <td width="50%" align="center">
       <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=TheLastCookie-404&theme=dark&show_icons=true&count_private=true"><br><br>
       <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=TheLastCookie-404&theme=dark">
@@ -57,6 +57,15 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
+
+<style>
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+   border: none;
+}
+</style>
 
 <!--
 <h2 align="center">📫 Connect with me</h2>
