@@ -43,8 +43,8 @@ Here are some ideas to get you started:
 
 <h2>Some stats</h2>
 <div https://github-readme-stats.vercel.app/api/top-langs/?username=TheLastCookie-404&layout=compact&theme=dark>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLastCookie-404&layout=compact&theme=dark" alt="Top Languages Card"></div>
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=brandonc123&amp;theme=dark&amp;show_icons=true&amp;count_private=true" class="EditorPreview_align-center__Q9vjk undefined">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLastCookie-404&layout=compact&theme=dark" alt="Top Languages Card"></div>
+<img align="right" src="https://readme-stats-fork-mauve.vercel.app/api/?username=brandonc123&amp;theme=dark&amp;show_icons=true&amp;count_private=true" class="EditorPreview_align-center__Q9vjk undefined">
 
 <!--
 <h2 align="center">📫 Connect with me</h2>
