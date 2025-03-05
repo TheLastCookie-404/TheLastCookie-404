@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </div>
 -->
 
-<h2 align="center">🛠 Tech Stack</h2>
+<h2>🛠 Tech Stack</h2>
 <div>
 <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">&nbsp;
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white">&nbsp;</div>
 <h2>🛠 My Stats</h2>
 <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandonc123&layout=compact&theme=dark" alt="Top Languages Card"></div>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLastCookie-404&layout=compact&theme=dark" alt="Top Languages Card"></div>
 
 <!--
 <h2 align="center">📫 Connect with me</h2>
