@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- <h1 align="center">Howdy, I`m TheLastCookie</h1> -->
+<h1 align="center">A little bit About Me</h1>
 <div align="center">
 <p>
   I love code as much as it could be. I make web projects, games on unity, and scripts for microcontrollers. <br>
