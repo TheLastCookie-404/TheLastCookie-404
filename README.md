@@ -34,5 +34,8 @@ Here are some ideas to get you started:
 <h2 align="center">🛠 My Stats</h2>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandonc123&layout=compact&theme=dark" alt="Top Languages Card"></div>
+
+<!--
 <h2 align="center">📫 Connect with me</h2>
 <p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/johndoe" target="_blank">John Doe</a></p>
+-->
