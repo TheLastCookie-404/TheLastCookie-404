@@ -20,7 +20,11 @@ Here are some ideas to get you started:
 <h2 align="center">A little bit About Me</h2>
 <div align="center">
 <p>
-  I love code as much as it could be. I make web projects, games on unity, and scripts for microcontrollers.
+  I love coding as much as it could be. ❤️ <br>
+  I make: 
+  🌍 - Web projects, 
+  👾 - Games on unity,
+  ⚡ - Scripts for microcontrollers.
 </p>
   <p>
     CAUTION, SUBJECTIVE THING! <br>
