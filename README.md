@@ -42,30 +42,14 @@ Here are some ideas to get you started:
 </div>
 
 <h2>Some stats</h2>
-<div https://github-readme-stats.vercel.app/api/top-langs/?username=TheLastCookie-404&layout=compact&theme=dark>
+<!-- <div https://github-readme-stats.vercel.app/api/top-langs/?username=TheLastCookie-404&layout=compact&theme=dark>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLastCookie-404&layout=compact&theme=dark" alt="Top Languages Card"></div>
-<img align="right" src="https://readme-stats-fork-mauve.vercel.app/api/?username=brandonc123&amp;theme=dark&amp;show_icons=true&amp;count_private=true" class="EditorPreview_align-center__Q9vjk undefined">
-
-## About Me
-
-Hi, I'm John Doe, a **passionate full-stack web developer** with a love for building scalable, user-friendly applications. With a strong foundation in both frontend and backend technologies, I enjoy working on projects that solve real-world problems. I'm constantly learning and exploring new tools and frameworks to stay updated with the latest industry trends.  
-When I'm not coding, you can find me experimenting with new technologies, contributing to open-source projects, or sharing my knowledge with the developer community.
-
-## My Skills
-
-<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"> 
-<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"> 
-<img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff"> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white"> 
-
-## GitHub Stats
+<img align="right" src="https://readme-stats-fork-mauve.vercel.app/api/?username=TheLastCookie-404&amp;theme=dark&amp;show_icons=true&amp;count_private=true" class="EditorPreview_align-center__Q9vjk undefined"> -->
 
 <table><tbody><tr border="none"><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=brandonc123&theme=dark&show_icons=true&count_private=true"><br>
-<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=brandonc123&theme=dark"></td><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=brandonc123&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=TheLastCookie-404&theme=dark&show_icons=true&count_private=true"><br>
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=TheLastCookie-404&theme=dark"></td><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=TheLastCookie-404&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
 <!--
 <h2 align="center">📫 Connect with me</h2>
