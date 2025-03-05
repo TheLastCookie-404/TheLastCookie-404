@@ -24,15 +24,15 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="center">🛠 Tech Stack</h2>
-<div align="center">
+<div>
 <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff">&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">&nbsp;
 <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white">&nbsp;</div>
-<h2 align="center">🛠 My Stats</h2>
-<div align="center">
+<h2>🛠 My Stats</h2>
+<div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandonc123&layout=compact&theme=dark" alt="Top Languages Card"></div>
 
 <!--
