@@ -35,9 +35,9 @@ Here are some ideas to get you started:
   </p>
   <p>
     <strong>Additional</strong> <br>
-    I use: <br>
+    <strong>I use:<strong>
     <p>
-      <strong>Langs:<strong> <br>
+      Langs: <br>
       C, C++, C#, JS, TS, PHP
     </p> 
     Vue, Nuxt, TailwindCSS, MySQL
