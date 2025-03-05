@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 <div align="center">
 <p>
   I love coding as much as it could be. ❤️ <br>
-  I make: 
-  🌍 - Web projects, 
-  👾 - Games on unity,
-  ⚡ - Scripts for microcontrollers.
+  I make: <br>
+  🌍 - Web projects, <br>
+  👾 - Games on unity, <br>
+  ⚡ - Scripts for microcontrollers. <br>
 </p>
   <p>
     CAUTION, SUBJECTIVE THING! <br>
