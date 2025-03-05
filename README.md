@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </p>
   <p>
     CAUTION, SUBJECTIVE THING! <br>
-    But i don't like JavaScript and Python
+    I don't like JavaScript and really don`t like Python
   </p>
 </div>
 
