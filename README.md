@@ -30,16 +30,17 @@ Here are some ideas to get you started:
     I don't like JavaScript and Python
   </p>
 </div>
-<div align="right">
+<span align="right">
   <h3>I use these guys</h3>
-<div>
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff">&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">&nbsp;
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white">&nbsp;</div>
-</div>
+  <div>
+    <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">&nbsp;
+    <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">&nbsp;
+    <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff">&nbsp;
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">&nbsp;
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">&nbsp;
+    <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white">&nbsp;
+  </div>
+</span>
 
 
 
