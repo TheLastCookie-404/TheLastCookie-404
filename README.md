@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
-
-<h1 align="center">Howdy, I`m TheLastCookie</h1>
+<!-- <h1 align="center">Howdy, I`m TheLastCookie</h1> -->
 <div align="center">
 <p>Hi, I'm John Doe, a <strong>passionate full-stack web developer</strong> with a love for building scalable, user-friendly applications. With a strong foundation in both frontend and backend technologies, I enjoy working on projects that solve real-world problems. I'm constantly learning and exploring new tools and frameworks to stay updated with the latest industry trends.<br>When I'm not coding, you can find me experimenting with new technologies, contributing to open-source projects, or sharing my knowledge with the developer community.</p>
 </div>
--->
+
 
 <h2>I use these guys</h2>
 <div>
