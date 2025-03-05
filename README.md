@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <h2>I use these guys</h2>
-<div>
+<div align="center">
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff">&nbsp;
