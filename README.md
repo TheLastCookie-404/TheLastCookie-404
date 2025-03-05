@@ -47,13 +47,13 @@ Here are some ideas to get you started:
 <img align="right" src="https://readme-stats-fork-mauve.vercel.app/api/?username=TheLastCookie-404&amp;theme=dark&amp;show_icons=true&amp;count_private=true" class="EditorPreview_align-center__Q9vjk undefined"> -->
 
 <table>
-  <tbody border="none">
+  <tbody>
     <tr border="none">
-      <td width="50%" align="center" border="none">
+      <td width="50%" align="center">
         <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=TheLastCookie-404&theme=dark&show_icons=true&count_private=true"><br><br>
         <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=TheLastCookie-404&theme=dark">
       </td>
-      <td width="50%" align="center" border="none">
+      <td width="50%" align="center">
         <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=TheLastCookie-404&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6">
       </td>
     </tr>
