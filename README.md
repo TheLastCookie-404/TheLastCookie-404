@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <h2>A little bit About Me</h2>
-<div align="left">
+<div width="50%" align="left">
   <p>
     <h3>I make:</strong> </h3>
     🌍 - Web projects, <br>
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     I don't like JavaScript and Python
   </p>
 </div>
-<div align="right">
+<div width="50%" align="right">
   <h3>I use these guys</h3>
   <div>
     <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">&nbsp;
