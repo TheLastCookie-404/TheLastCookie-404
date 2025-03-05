@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">&nbsp;
 <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white">&nbsp;</div>
 <h2>🛠 My Stats</h2>
-<div align="center" https://github-readme-stats.vercel.app/api/top-langs/?username=TheLastCookie-404&layout=compact&theme=dark>
+<div https://github-readme-stats.vercel.app/api/top-langs/?username=TheLastCookie-404&layout=compact&theme=dark>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLastCookie-404&layout=compact&theme=dark" alt="Top Languages Card"></div>
 
 <!--
