@@ -36,8 +36,8 @@ Here are some ideas to get you started:
     ⚡ - Scripts for microcontrollers. <br>
   </p>
   <p>
-    <strong>CAUTION, SUBJECTIVE THING!</strong> <br>
-    I don't like JavaScript and Python
+    <strong>Additional</strong> <br>
+    I use: Vue, Nuxt, TailwindCSS, MySQL
   </p>
 </div>
 
