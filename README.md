@@ -42,10 +42,12 @@ Here are some ideas to get you started:
 </div>
 
 <h2>Some stats</h2>
+![TheLastCookie-404's Stats](https://github-readme-stats.vercel.app/api?username=TheLastCookie-404&theme=merko&show_icons=true&hide_border=true&count_private=true)
 <!-- <div https://github-readme-stats.vercel.app/api/top-langs/?username=TheLastCookie-404&layout=compact&theme=dark>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLastCookie-404&layout=compact&theme=dark" alt="Top Languages Card"></div>
 <img align="right" src="https://readme-stats-fork-mauve.vercel.app/api/?username=TheLastCookie-404&amp;theme=dark&amp;show_icons=true&amp;count_private=true" class="EditorPreview_align-center__Q9vjk undefined"> -->
 
+<!--
 <table border="none">
   <tr border="none">
     <td width="50%" align="center" border="none">
@@ -57,6 +59,7 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
+-->
 
 
 <!--
