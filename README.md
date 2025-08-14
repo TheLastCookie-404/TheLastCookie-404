@@ -44,9 +44,10 @@ Here are some ideas to get you started:
 <h2>Some stats</h2>
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheLastCookie-404&theme=dark&show_icons=true&hide_border=true&count_private=true"> -->
 
-<div https://github-readme-stats.vercel.app/api/top-langs/?username=TheLastCookie-404&layout=compact&theme=dark>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLastCookie-404&layout=compact&theme=dark" alt="Top Languages Card"></div>
-<img align="right" src="https://readme-stats-fork-mauve.vercel.app/api/?username=TheLastCookie-404&amp;theme=dark&amp;show_icons=true&amp;count_private=true" class="EditorPreview_align-center__Q9vjk undefined">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheLastCookie-404&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=merko&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=TheLastCookie-404&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
 
 <!--
 <table border="none">
