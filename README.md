@@ -44,9 +44,8 @@ Here are some ideas to get you started:
 <h2>Some stats</h2>
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheLastCookie-404&theme=dark&show_icons=true&hide_border=true&count_private=true"> -->
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheLastCookie-404&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=merko&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=TheLastCookie-404&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
 
 <!--
