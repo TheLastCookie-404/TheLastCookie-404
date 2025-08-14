@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheLastCookie-404&theme=dark&show_icons=true&hide_border=true&count_private=true"> -->
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheLastCookie-404&locale=en&hide_title=false&layout=compact&card_width=512&langs_count=8&theme=github_dark&hide_border=true&order=2" height="320" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheLastCookie-404&locale=en&hide_title=false&layout=compact&card_width=1024&langs_count=8&theme=github_dark&hide_border=true&order=2" height="512" alt="languages graph"  />
 </div>
 
 <!--
