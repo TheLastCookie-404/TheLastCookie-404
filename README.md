@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">&nbsp;
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">&nbsp;
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white">&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=green">&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=TheLastCookie-404&color=green">&nbsp;
 </div>
 
 <h2>A little bit About Me</h2>
