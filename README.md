@@ -1,7 +1,7 @@
 ## Howdy, my friend 👋
 ### I`m TheLastCookie. Let's write some funny code!!!
 <!-- ![matrix-falling-code-small](https://github.com/user-attachments/assets/724b4b23-3ca2-4145-a1d2-a7f9521c63a4) -->
-<img src="https://pixel-profile.vercel.app/api/github-stats?username=TheLastCookie-404&theme=crt">
+[https://pixel-profile.vercel.app/api/github-stats?username=TheLastCookie-404&theme=crt](https://pixel-profile.vercel.app/api/github-stats?username=<username>&theme=crt)
 
 <!--
 **TheLastCookie-404/TheLastCookie-404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
