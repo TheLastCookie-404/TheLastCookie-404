@@ -40,7 +40,7 @@ Here are some ideas to get you started:
     <strong>Additional</strong> <br>
     I use: <br>
     C, C++, C#, JS, TS, PHP <br>
-    Vue, Nuxt, TailwindCSS, MySQL
+    Vue, Nuxt, TailwindCSS, MySQL, PostgreSQL
   </p>
 </div>
 
