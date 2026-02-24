@@ -26,7 +26,7 @@ jobs:
         with:
           outputs: |
             dist/github-stats?username=TheLastCookie-404&screen_effect=false&theme=fuji&dithering=true
-            dist/github-stats-dark?username=TheLastCookie-404&theme=crt
+            dist/github-stats-dark?username=TheLastCookie-404&theme=crt&include_all_commits=true
           crt_outputs: |
             dist/github-stats-crt?username=TheLastCookie-404&include_all_commits=true
 
