@@ -73,4 +73,4 @@ Here are some ideas to get you started:
 <p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/johndoe" target="_blank">John Doe</a></p>
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheLastCookie-404&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=TheLastCookie-404)](https://git.io/streak-stats)
