@@ -72,5 +72,3 @@ Here are some ideas to get you started:
 <h2 align="center">📫 Connect with me</h2>
 <p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/johndoe" target="_blank">John Doe</a></p>
 -->
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=TheLastCookie-404)](https://git.io/streak-stats)
