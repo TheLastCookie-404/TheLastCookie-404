@@ -19,6 +19,8 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
+    env:
+      ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
 
     steps:
       - name: generate github stats card
