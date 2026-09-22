@@ -29,9 +29,7 @@ jobs:
             dist/github-stats-dark?username=TheLastCookie-404&theme=crt
           crt_outputs: |
             dist/github-stats-crt?username=TheLastCookie-404&include_all_commits=true
-
-      # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
+            
       - name: push cards to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
